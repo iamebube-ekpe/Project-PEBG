@@ -101,7 +101,6 @@ h3 {
 .fixed {
   background-image: url('../img/fixed.jpg');
   position: fixed;
-  /* opacity: .3; */
 }
 
 /*=== FOOTER ===*/
